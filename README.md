@@ -1,8 +1,4 @@
 # Computer-Vision-to-LLM-101
-This guide helps bridge the gap between CV and LLM engineers by comparing key concepts and terminology, mapping CV knowledge to NLP/LLM applications, highlighting equivalencies, differences, and nuances.
-
-# Transitioning from Image Processing/Computer Vision to NLP/LLMs
-
 This table maps concepts, techniques, and tools from image processing and computer vision to their equivalents in natural language processing (NLP) and large language models (LLMs). It is designed for those with experience in computer vision to leverage their skills for an easier transition to NLP.
 
 | Image Processing/Computer Vision Concept | NLP/LLM Equivalent | Explanation of Parallel | Key Differences |
