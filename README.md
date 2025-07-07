@@ -31,5 +31,5 @@ This table maps concepts, techniques, and tools from image processing and comput
 ## Additional Resources
 
 - **Datasets**: Explore NLP datasets like GLUE, SQuAD, or Common Crawl (similar to ImageNet or COCO).
-- **Communities**: Join NLP discussions on GitHub, Hugging Face forums, or X for up-to-date insights.
-- **Further Learning**: For specific NLP tools, datasets, or tutorials, request real-time searches for the latest resources.
+- **Communities**: Join NLP discussions on GitHub, Hugging Face forums for up-to-date insights.
+
