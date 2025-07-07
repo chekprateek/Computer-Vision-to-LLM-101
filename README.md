@@ -1,4 +1,4 @@
-# Computer-Vision-to-LLM-101
+# Transitioning from Computer Vision to Natural Language Processing
 This table maps concepts, techniques, and tools from image processing and computer vision to their equivalents in natural language processing (NLP) and large language models (LLMs). It is designed for those with experience in computer vision to leverage their skills for an easier transition to NLP.
 
 | Image Processing/Computer Vision Concept | NLP/LLM Equivalent | Explanation of Parallel | Key Differences |
