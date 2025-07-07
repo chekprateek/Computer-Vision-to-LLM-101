@@ -27,9 +27,6 @@ This table maps concepts, techniques, and tools from image processing and comput
 4. **Experiment with NLP Tasks**: Start with text classification or NER, which parallel image classification and object detection. Use datasets from Kaggle or Hugging Face.
 5. **Use Familiar Tools**: Adapt PyTorch/TensorFlow workflows for NLP tasks.
 6. **Explore Multimodal Models**: Models like CLIP or DALL·E combine vision and NLP, leveraging your existing skills.
+7. **Datasets**: Explore NLP datasets like GLUE, SQuAD, or Common Crawl (similar to ImageNet or COCO).
 
-## Additional Resources
-
-- **Datasets**: Explore NLP datasets like GLUE, SQuAD, or Common Crawl (similar to ImageNet or COCO).
-- **Communities**: Join NLP discussions on GitHub, Hugging Face forums for up-to-date insights.
 
