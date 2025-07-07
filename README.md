@@ -1,5 +1,5 @@
 # Computer-Vision-to-LLM-101
-Guidance for Computer Vision engineers exploring Remote Sensing applications.
+This guide helps bridge the gap between CV and LLM engineers by comparing key concepts and terminology, mapping CV knowledge to NLP/LLM applications, highlighting equivalencies, differences, and nuances.
 
 # Transitioning from Image Processing/Computer Vision to NLP/LLMs
 
